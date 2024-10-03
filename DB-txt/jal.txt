@@ -1,0 +1,563 @@
+______________________________________________________________________________
+                    Department of computer science 
+______________________________________________________________________________
+GAME
+______________________________________________________________________________
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2020	Asif Ali Laghari		Quality of experience  	
+		 Khalil-ur- Rehman Laghari		(QoE) assessment of	
+		Muhammad Bux Soomro		 games on workstations	
+		Vishal Kuma		           and mobile	
+______________________________________________________________________________					
+DATABASE
+______________________________________________________________________________
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________				               A Generative Adversarial   	
+1	2021	I-Sheng Huang		Network Model Based	
+		Yu-Hsuan Lu		on Intelligent Data	
+		Muhammad Shafiq		Analytics for Music	
+		Asif Ali Laghari		Emotion Recognition	
+		Rahul Yadav		 under IoT	
+______________________________________________________________________________					
+2	2021	Yadav		      Managing overloaded 	
+		Rahul		       hosts for energy	
+		Weizhe Zhang		efficiency in cloud	
+		Keqin Li		data centers	
+		Chuanyi Liu			
+		Asif Ali Laghari			
+______________________________________________________________________________					
+3	2021	Awais Khan Jumani		Blockchain and Big  	
+		Asif Ali Laghari		Data: Supportive Aid	
+		Abdullah Ayub Khan		for Daily Life	
+______________________________________________________________________________					
+4	2019	Farsi		Cloud computing and 	
+		M. Ali		data security threats	
+		M.Shah		 taxonomy: A review	
+		R. A.Wagan			
+		A. A			
+		Kharabsheh.R.			
+______________________________________________________________________________					
+5	2019	Imtiaz Husain		         Self-Similarity Pattern  	
+		Syed Shahid Shaukat		Corresponding to the	
+		Abdul Hafeez Khan		Vegetational Field Data	
+______________________________________________________________________________					
+6	2018	Irfan Ali Kandhro		Performance Comparison   	
+		Haque Nawaz Lashari		between Merge and	
+		Imran Khan 		           Quick Sort Algorithms	
+		M Ameen Chhajro		            in Data Structure	
+		M. Malook Rind			
+______________________________________________________________________________					
+
+INTERNET OF THING:
+______________________________________________________________________________
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Muhammad Waqas		Botnet attack detection in  	
+		Kamlesh Kumar		Internet of Things devices	
+		Asif Ali Laghari		over cloud environment	
+		Umair Saeed		       via machine learning	
+		 Muhammad Malook Rind			
+		Aftab Ahmed Shaikh			
+		Fahad Hussain			
+		Athaul Rai			
+		Abdul Qayoom Qazi			
+______________________________________________________________________________					
+2	2021	Asif Ali Laghari		A Review and State of	
+		Kaishan Wu		       Art of Internet of Things (IoT)	
+		Rashid Ali Laghari			
+		 Mureed Ali			
+		Abdullah Ayub Khan			
+______________________________________________________________________________					
+3	2019	Asif. Ali.WAGAN		Multipath Mobile Internet 	
+		Munwar.ZARDARI		Protocol for Mobility Networks	
+		R. A. SHAH			
+		Aamir. Iqbal.UMRANI			
+		Asif. Ali. LAGHARI			
+______________________________________________________________________________					
+4	2017	Syed Asif Ali		Planned Future Internet   	
+		 Adnan Ahmed		Infrastructure: A Plot	
+		Basit Hassan		Model For Higher	
+				        Education Institution	
+______________________________________________________________________________					
+NETWORKING
+______________________________________________________________________________	
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Rashid Nazir		Survey on Wireless Network Security	
+		Asif Ali laghari			
+		Kamlesh Kumar			
+		Shibin David			
+		Munwar Ali			
+______________________________________________________________________________					
+2	2021	Rahul Yadav		Smart Healthcare: RL-Based Task  	
+		"Weizhe Zhang,"		Offloading Scheme for Edge-Enable Sensor	
+		Ibrahim A. Elgendy		Networks	
+		 Guozhong Dong			
+		Muhamamd Shafiq			
+		Asif Ali Laghari			
+		Shiv Prakash			
+______________________________________________________________________________					
+3	2021	Abdullah Ayub Khan 		IMG-forensics: Multimedia- 	
+		 Aftab Ahmed Shaikh		enabled information hiding 	
+		Omar Cheikhrouhou		 investigation using convolutio- 	
+		Asif Ali Laghari		nal neural network	
+		Mamoon Rashid			
+		Muhammad Shafiq			
+		Habib Hamam			
+______________________________________________________________________________					
+4	2021	Abdullah Ayub Khan 		Fourth Industrial Revolution  	
+		Asif Ali Laghari		Application: Network Forens-	
+		Shafique Awan		ics Cloud Security Issues	
+		Awais Khan Juman			
+______________________________________________________________________________					
+5	2020	Farhan Khan		Social Networks Mining  	
+		Saqib Iqbal		and Analysis of Specific	
+		Pireh Soomro		Groups (Political and 	
+		Asif Ali Laghari		Regional) by using API	
+		Kamran Ali			
+______________________________________________________________________________					
+6	2019	RA SHAH		An Efficient Technique for  	
+		AA WAGAN		Network Intrusion Detection	
+		M ALI		Using Feature selection	
+		R BIBI			
+______________________________________________________________________________					
+7	2019	Asif. Ali.WAGAN		Multipath Mobile Internet 	
+		Munwar.ZARDARI		 Protocol for Mobility	
+		R. A. SHAH		Networks	
+		R. A. SHAH			
+		Asif. Ali. LAGHARI			
+______________________________________________________________________________					
+8	2019	Adeel Abro		A Dynamic Application-	
+		Zhongliang Deng		Partitioning Algorithm with 	
+		Kamran A. Memon		Improved Offloading Mechanism	
+		Asif Ali Laghari		 for Fog Cloud Networks	
+		Khalid Hussain Mohammadani			
+		Noor ul Ain			
+______________________________________________________________________________					
+9	2019	Poonam K.K		         A Step towards the 	
+		 Asif Ali Laghari		Efficiency of Collisions 	
+		Rashid Ali Laghari		 in the Wireless Sensor	
+				                   Networks	
+______________________________________________________________________________					
+10	2019	Syed Asif Ali		      Library Book Sharing 	
+		 Basit Hassan Qureshi		Network (LBSN)	
+		 Syeda Wajiha Naim			
+		Maham Nasrullah			
+______________________________________________________________________________					
+11	2019	Haque Nawaz Lashari		A study of mobility  	
+		Husnain Mansoor Ali		models for UAV	
+		Shafiq ur Rehman Massan		communication networks	
+______________________________________________________________________________					
+12	2018	 Husnain Mansoor Ali		Implementation of OLSR  	
+		Haque Nawaz		            using 802.11g in UAV	
+				             communication network security	
+______________________________________________________________________________					
+13	2018	Haque Nawaz Lashari		Implementation of OLSR  	
+				                 using 802.11g in UAV	
+				                communication network 	
+______________________________________________________________________________					
+14	2017	Shamsa Kanwal		       Effects of Social Network-	
+		Ren Chonga 		        ing Sites (SNS) 	
+		Abdul Hameed		      Addiction on Online 	
+		Haque Nawaz Lashari		Self Disclosure Behavior: 	
+				              Impact of Psychological Factors	
+______________________________________________________________________________					
+15	2017	Haque Nawaz Lashari 		Performance Analysis of  	
+		Dr. Malook Rind		        Geographic Routing Protocol	
+				                  of MANET	
+______________________________________________________________________________					
+16	2013	H. MEHDI		Error-Rate Performance  	
+		S. SOOMRO		Analysis of Wireless	
+		W. R. KHAN		Sensor Networks over	
+		A. G. MEMON		 Fading Channels	
+		 A. HAFEEZ			
+______________________________________________________________________________					
+17	2013	H. Mehdi		Error-Rate Performance  	
+		S Soomro		Analysis of Wireless	
+		 W. R. Khan		Sensor Networks over	
+		A. G. Memon		 Fading Channels	
+		A. Hafeez			
+______________________________________________________________________________					
+18	2013	Ambreen		                International Journal of	
+		Haque Nawaz Lashari		 Emerging Technology 	
+				                     and Advanced Engineering	
+______________________________________________________________________________					
+SOCIAL PLATFORMS
+______________________________________________________________________________	
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Asif Ali Laghari 		Assessment of quality 	
+		 Mureed Ali Laghari		of experience (QoE) of image	
+				                compression in social cloud 	
+				                  computing Assessment of	
+				                   quality of experience (QoE)	
+				                      of image compression	
+				                  in social cloud computing	
+				                  Quality of Experience 	
+				                  Assessment of Calling	
+				                    Services in Social Network	
+______________________________________________________________________________					
+2	2021	Sajida Karim 		Quality of service (QoS):  	
+		Hui He		          measurements of image	
+		Asif Ali Laghari		formats in social	
+		 Arif Hussain Magsi		 cloud computing	
+		Rashid Ali Laghari			
+______________________________________________________________________________					
+3	2020	Farhan Khan		Social Networks Mining 	
+		Saqib Iqbal		and Analysis of Specific 	
+		Pireh Soomro		Groups (Political and 	
+		Asif Ali Laghari		Regional) by  using API	
+		Kamran Ali			
+______________________________________________________________________________					
+4	2019	Ameen Khowaja		         Need of a Localized 	
+		Usman Khan		      Social Network Platform 	
+		 Muhammad Arshad Arain		for Crowdfunding in 	
+		Syeda Wajiha Naim		Pakistan	
+		Syeda Nazia Ashraf			
+		 Irfan Ali Kandhro			
+______________________________________________________________________________					
+5	2018	Bilal		       An Analysis of Co-relation 	
+		Ahthasham Sajid		between Social Network 	
+		Haque Nawaz Lashari		Citation with H-Index 	
+		M. Malook Rind		         and its Variants	
+______________________________________________________________________________					
+6	2017	Shamsa Kanwal		Effects of Social Networking	
+		Ren Chonga 		 Sites (SNS) Addiction 	
+		Abdul Hameed		on Online Self Disclosure 	
+		Haque Nawaz Lashari		Behavior: Impact of	
+				         Psychological Factors	
+______________________________________________________________________________			
+    Department of Artificial Intelligence & Mathematical Sciences 
+______________________________________________________________________________
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Syed Muhammad Hassan		An Effective Combination of 	
+		Abdullah Alghamdi		 Textures and Wavelet	
+		Abdul Hafeez		       Features for Facial	
+		Mohammad Hamdi		       Expression Recognition	
+		Imtiaz Hussain			
+		 Mesfer Alrizq			
+______________________________________________________________________________					
+2	2021	Moheez ur Rahim		    Ignition Behavior of  	
+		Mukkarum Hussain		Supercritical Liquid Fuel	
+		Syed Azeem Inam		      in Combustion System	
+		Hassan Hashim			
+______________________________________________________________________________					
+3	2021	Imtiiaz Husain		   Logic Retaining Power    	
+		Hassan Hashim		     Among Genders and	
+		Syed Azeem Inam		      Effect of Time Constraints	
+		Muhammad Ali		     on the Performance	
+		Asif Mehmood Awan		of Undergrads Students	
+		Syed Muhammad Hassan			
+		Naila Rozi			
+______________________________________________________________________________					
+4	2021	Muhammad Ali 		        The best fitted probabilistic   	
+		Bulbul Jan		       modelling for seasonal 	
+		 Faisal Ahmed Khan Afridi		extreme rainfall of	
+		Muhammad Yonus		"       Gilgit-Baltistan, Pakistan"	
+______________________________________________________________________________					
+5	2021	Bulbul Jan		              Study of the nonlinear    	
+		Faisal Ahmed Khan Afridi		 character of ionospher	
+		 Muhammad Ali		         signals possessing critical	
+		Muhammad Ayub Khan Yousufzai		frequency (foF2) at	
+				                           Pakistan air space	
+______________________________________________________________________________					
+6	2020	Naila Rozi		Encryption of Big Data   	
+				        via Z-DNA to Analysis	
+				        of B-DNA through	
+				          neuron Processor	
+______________________________________________________________________________					
+7	2020	Khalid H. Malik		      On Transversal Vibrations   	
+		Sanaullah Dehraj		Of An Axially Moving	
+		Sajad H. Sandilo		Beam Under Influence	
+		Asif Mehmood Awan		Of Viscous Damping	
+______________________________________________________________________________					
+8	2020	Muhammad Ali		Return Level Estimates 	
+		Syed Asif Ali		of Maximum Temperature	
+		Imtiaz Hussain		 for Different Return Periods	
+		 Faisal Nawaz			
+______________________________________________________________________________
+                   Department of Software Engineering
+______________________________________________________________________________	
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Dr. Abdul Hafeez 		Ontology Based Verification 	
+		(1st Author)		       of UML Class Model	
+______________________________________________________________________________					
+2	2021	Dr. Abdul Hafeez		Ontology Based Verification   	
+		(2nd Author)		          of UML Class Model	
+				                  XOR Constraint and	
+				                 Dependency Relationship 	
+				                     Constraints	
+______________________________________________________________________________					
+3	2019	Dr. Abdul Hafeez		A Survey on the  	
+		 (1st Author)		        Adaption of CMS	
+				                in Pakistani Universities	
+______________________________________________________________________________			
+
+         Department of Media and Communication Studies
+______________________________________________________________________________
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2020	Hadia Khalil 		             Print Media Coverage of   	
+		Dr. Muhammad Osama Shafiq		Women Issues; National 	
+				                     and Regional Newspapers	
+				                       of Sindh and the	
+				                       International Perspective	
+______________________________________________________________________________					
+2	2019	Sana Shahid		Impact of “WhatsApp Chaupal”   	
+		M.Ali Shaikh		on the academic performance	
+				             of graduate students	
+				                  of Karachi: A case study	
+______________________________________________________________________________					
+3	2019	Sultan Rs		women and glass   	
+		Yaseen M		ceiling in academia:	
+		Fazal A		        a study in Pakistani	
+		Khalid A		context	
+		Rehman R			
+______________________________________________________________________________					
+4	2019	Rana Raba Sultan		        Gender Representation  	
+		 Nadil Shah Ambreen Fazal		In Public School	
+				                      Text Books Of	
+				                        Baluchistan	
+______________________________________________________________________________					
+5	2019	 Yasmeen Sultana		Gender Representation	
+		M. Wasif Khan		                in SMS Jokes	
+					
+______________________________________________________________________________					
+6	2018	Dr. Yasmeen Sultana		Prpaganda for “Art for Art” 	
+		Dr. Javed Akhter		movement through media.	
+______________________________________________________________________________					
+7	2018	Saima Baig		Outcome and Roots   	
+		Asmat Ullah 		of Early Marriages	
+				     in Gilgit-Baltistan:	
+				    A Quantitative Descriptive	
+				    Study	
+______________________________________________________________________________					
+8	2018	Yasmeen Sultana		Role of Gender in 	
+		Khushboo Rafiq		Children’s Cognitive	
+				          Learning from Television	
+______________________________________________________________________________					
+9	2018	Aamir Abbas		"Efficacy of knowledge,    "	
+		Dr. Yasmeen Sultana		attitude and practices	
+		Muhammad Imran		 of households on	
+				          municipal solid waste	
+				         management in Karachi 	
+______________________________________________________________________________					
+10	2017	Dr. Yasmeen Sultana		Book: Nawadir-e-Anjuman 	
+______________________________________________________________________________					
+11	2017	Syed Arshad Hussain		Adaptation of E-Government  	
+		Saima Baig		            Services in Pakistan:	
+		Kiran Fatima		          What’s Missing? Only	
+		Zarnain Farid Sati		Print Version	
+		Syed Hasnanin Alam			
+______________________________________________________________________________					
+12	2017	Nosheen Hussain		Challenges of e-learning 	
+				       in Pakistan from students' 	
+				           perspective: A phenomenological	
+				           approach	
+______________________________________________________________________________					
+13	2015	Rana Saba Sultan		Causes Of Women 	
+		 Ambreen Akbar		Harassment At Workplace	
+		Nargis Ahmed			
+		Musrrat Parveen			
+______________________________________________________________________________					
+14	2014	Nosheen Hussain		Understanding Breaking   	
+		Syed Azfar Ali		News from Viewer's	
+		 Samreen Razi  		Perspective: A Phenom-	
+				       enological Approach	
+______________________________________________________________________________					
+15	2013	Saima Baig		The Role of Prenatal   	
+		Fakhar ul Huda		Low Intake and	
+		 Siddique		Low Birth Weight	
+				      among Deceased Infant	
+_____________________________________________________________________________
+                       Department of Environmental Sciences
+______________________________________________________________________________
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Nazeer Ali Panhwar 		Water Stress Affects  	
+		Monika Mierzwa-Hersztek		the Some Morpho	
+		Gul Muhammad Baloch		Physiological Traits	
+		 Zahoor Ahmed Soomro1		of Twenty Wheat 	
+		Mahboob Ali Sial		(Triticum aestivum L.)	
+		Erdona Demiraj		         Genotypes under 	
+		Sajjad Ali Panhwar		 Field Condition	
+		Ambreen Afzal			
+		Altaf Hussain Lahori			
+______________________________________________________________________________					
+2	2021	Nazeer Ali   Panhwar		Evaluation of heterosis      	
+		Gul Muhammad   Baloch		and its association	
+		Zahoor Ahmed Soomro		among  morpho-physiological	
+		Mahboob Ali Sial		traits  of  ten wheat	
+		Sajjad Ali Panhwar		genotypes under water	
+		Ambreen Afzal		         stress	
+		Altaf Hussain Lahori			
+______________________________________________________________________________					
+3	2021	Thi Hanh Tong		       Land Suitability Modeling   	
+		 Mai Phuong Pham		for Rice crop Based 	
+		 Thi Mai Huong Nguyen		On An Integrated	
+		Thi Thu Nga Nguyen		 Multi-Criteria Decision	
+		Alexander E. Balakirev		Making In Quang	
+		Altaf Hussain Lahori		Tri Province Of 	
+				                   Vietnam	
+______________________________________________________________________________					
+4	2021	Zouhair Elkhlifi		Lanthanum hydroxide     	
+		Lotfi Sellaoui		        engineered sewage	
+		Mengmeng Zhao		       sludge biochar for	
+		Jerosha Ifthikar		efficient phosphate	
+		 Ali Jawad		      elimination: Mechanism	
+		 Irshad Ibran Shahib		 interpretation using	
+		Badreddine Sijilmassi		physical modelling	
+		Altaf Hussain Lahori			
+		Rangabhashiyam Selvasembian			
+		Lucas Meili 			
+		Eman Abdelnasser Gendy 			
+		Zhuqi Chen			
+______________________________________________________________________________					
+5	2021	Tanveer Ahmed Gadhi		Waste Heat and    	
+		Imran Ali		     Wastewater Recovery	
+		Rasool Bux Mahar		in Textile Processing	
+		Hubdar Ali Maitlo		 Industry: A Case	
+		 Najeebullah Channa		Study of Adopted	
+				               Practices	
+______________________________________________________________________________					
+6	2021	Ambreen Afzal		Assessment of Spatial 	
+		Sheeba Afsar		 Distribution of Waste 	
+		Altaf Hussain Lahori		Bins in Karachi	
+		Anila Kausar		     Through GIS	
+				           Techniques	
+______________________________________________________________________________					
+7	2020	Nazeer Ali Panhwar		Influence of Row  	
+		 Saeed Ahmed Buriro		Spacing On Grain	
+		Abdul Hameed Memon		 Yield Of Winter	
+		Maira Tunio		          Wheat Genotypes	
+		Noor Us Sehar			
+		 Sajjad Ali Panhwar			
+		Altaf Hussain Lahori			
+______________________________________________________________________________					
+8	2020	Altaf Hussain Lahori		"Clays, Limestone and     "	
+		Monika Mierzwa-Hersztek		Biochar Affect the	
+		Erdona Demiraj		       Bioavailability and	
+		Rachida Idir		           Geochemical Fractions	
+		ThiTuyet Xuan Bui		of Cadmium and	
+		DinhDuy Vu		         Zinc from Zn-Smelter	
+		Amanullah Channa		 Polluted Soils	
+		 Naeem Akhtar Samoon			
+		 Zengqiang Zhang			
+______________________________________________________________________________					
+9	2020	Ashim Sikdar 		      Phytostabilization of    	
+		Jinxin Wang 		    Pb- Zn Mine Tailings	
+		Mirza Hasanuzzaman		with Amorpha fruticosa 	
+		Xiaoyang Liu		     Aided by Organic	
+		Shulin Feng		    Amendments and	
+		Rana Roy		      Triple Superphosphate	
+		Tanveer Ali Sial			
+		 Altaf Hussain Lahori			
+		Parimala Gnana Soundari			
+		Arockiam Jeyasundar			
+		 Xiuqing Wang			
+______________________________________________________________________________					
+10	2020	"Juan Du, Zhanyu Guo"		Screening of Chinese    	
+		 Ronghua Li		mustard (Brassica juncea L.)	
+		Di Guo		          cultivars for Cd/Zn	
+		Altaf Hussain Lahori		phytoremediation and	
+		Ping Wang		      research on physiological	
+		Xiangyu Liu		          mechanisms	
+		Amjad Ali			
+		Zengqiang Zhang			
+______________________________________________________________________________					
+11	2019	A.H. Lahori		Enhancing Phosphorus   	
+		 K. S. Memon		Solubility from Rock	
+		V. Vambol		Phosphate Integrated 	
+		H. Yasoob		 with Farmyard	
+		A. Aziz		       Manure in P-Deficient	
+		Z.Naheed		Soil	
+______________________________________________________________________________					
+12	2019	Altaf Hussain Lahori 		Residual effects of   	
+		 Monika Mierzwa-Hersztek		tobacco biochar	
+		 Shahmir Ali Kalhoro		along with different	
+		Mehrunisa Memon		      fixing agents on	
+		Zobia Naheed		       stabilization of trace	
+		 Muneer Ahmed		        elements in multi	
+		Zengqiang Zhang		         metal contaminated	
+				                         soils	
+______________________________________________________________________________					
+13	2019	Shuang Ren 		Comparison of Cd2+  	
+		Zhaofu Meng		 adsorption onto	
+		Xiuxian Sun		 amphoteric-cationic	
+		 Haoyuan Lu		and amphoteric	
+		Mengfei Zhang		anionic modified	
+		Altaf Hussain Lahori		magnetic bentonites	
+		Shuaibin Bu			
+______________________________________________________________________________					
+14	2017	M. Saeed Arayne		        Antihistaminic and other  	
+		 Najma Sultana		            biological activities 	
+		Hina Shehnaz		             of 2-methylpropanamide	
+		Saf-ur-Rehman Mandukhail		and benzamide	
+		 Anwarul Hassan Gilani		 derivatives of	
+		Amir Haider		          carboxyterfenadine	
+______________________________________________________________________________					
+15	2017	Laila Shahnaz		Phycochemical Investigation 	
+		 Amir Haider		 Of Brown Alga Sargassum	
+		 Hina Shehnaz		Tenerrimum From	
+				        Karachi Coast	
+______________________________________________________________________________					
+16	2014	Muhammad Hashim Zuberi		Optimization Of Quantitative    	
+		 Urooj Haroon		           Analysis Of Naproxin	
+		Yasmin Bibi		       Sodium Using Uv	
+		 Talat Mehmood		         Spectrophotometry In	
+		Iffat Mehmood		        Different Solvent Mediums	
+______________________________________________________________________________					
+17	2012	Amir Haider		In vitro Interaction	
+		Hina Shahnaz		of H1 and H2-receptor	
+		M. Saeed Arayne		"Antagonists, Cephalosporins"	
+		 Najma Sultana		"ACE-inhibitors, Hydrochlorothiazide,"	
+				       NSAIDs and Quinolones 	
+				         with Amantadine	
+______________________________________________________________________________					
+______________________________________________________________________________
+                 Department of Social Development
+______________________________________________________________________________
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Shoaib Ahmed Jagirani 		Economic Effects of   	
+		Subhash Guriro		       Seawater Intrusion on Life 	
+		Muhammad Kamil Lakho		of Coastal Communities	
+				               in Sindh Region	
+				                   of Pakistan	
+______________________________________________________________________________					
+2	2021	"Khushboo Rafiq , and "		Portrayal of Aasia   	
+		 Abdul Bari		       Bibi Blasphemy Case:	
+		Muhammad Kamil Lakho		A Comparative Analysis	
+				               of News Headlines	
+				               in Pakistani Newspapers	
+______________________________________________________________________________					
+3	2021	Muhammad Kamil Lakho 		LAW AS AN AGENT   	
+		 Hadia Khalil		        OF SOCIAL CHANGE: A	
+		Ambreen Fazal		       SOCIOLOGICAL STUDY	
+				                  OF PRO-WOMEN	
+				                  ENACTMENTS IN PAKISTAN	
+______________________________________________________________________________					
+4	2020	Khalil		               REPRESENTATION OF   	
+		Hadia		           TRANSGENDER COMMUNITY 	
+		MuhammadKamil Lakho		IN PAKISTANI ENGLISH	
+		Abdul Bari		      NEWSPAPERS: A COMPARATIVE	
+		 Usama Hassan Soomro.		ANALYSISOF DAILY DAWN	
+				                     EXPRESS TRIBUNE	
+______________________________________________________________________________					
+5	2020	Tariq Masood 		Inequities and Barriers  	
+		 Subhash Guriro		 to Routine Immunization	
+		Jaishri Mehraj		Coverage in Urban	
+				            and Rural Areas	
+				"         of Sindh, Pakistan"	
+______________________________________________________________________________					
+6	2020	Sadia Ismail		        Acid Violence in   	
+		Subhash Guriro		         Pakistan: A Study	
+		 Muhammad Kamil Lakho		on Women Victims	
+				             of Acid Attacks 	
+				             in Karachi	
+______________________________________________________________________________					
+		
+

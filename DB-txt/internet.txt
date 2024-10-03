@@ -1,0 +1,32 @@
+______________________________________________________________________________	
+                 Department of computer science
+______________________________________________________________________________					
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Muhammad Waqas		Botnet attack detection in  	
+		Kamlesh Kumar		Internet of Things devices	
+		Asif Ali Laghari		over cloud environment	
+		Umair Saeed		       via machine learning	
+		 Muhammad Malook Rind			
+		Aftab Ahmed Shaikh			
+		Fahad Hussain			
+		Athaul Rai			
+		Abdul Qayoom Qazi			
+______________________________________________________________________________					
+2	2021	Asif Ali Laghari		A Review and State of	
+		Kaishan Wu		       Art of Internet of Things (IoT)	
+		Rashid Ali Laghari			
+		 Mureed Ali			
+		Abdullah Ayub Khan			
+______________________________________________________________________________					
+3	2019	Asif. Ali.WAGAN		Multipath Mobile Internet 	
+		Munwar.ZARDARI		Protocol for Mobility Networks	
+		R. A. SHAH			
+		Aamir. Iqbal.UMRANI			
+		Asif. Ali. LAGHARI			
+______________________________________________________________________________					
+4	2017	Syed Asif Ali		Planned Future Internet   	
+		 Adnan Ahmed		Infrastructure: A Plot	
+		Basit Hassan		Model For Higher	
+				        Education Institution	
+______________________________________________________________________________					

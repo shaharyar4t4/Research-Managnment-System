@@ -1,0 +1,104 @@
+______________________________________________________________________________	
+                        Department of computer science
+______________________________________________________________________________					
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Rashid Nazir		Survey on Wireless Network Security	
+		Asif Ali laghari			
+		Kamlesh Kumar			
+		Shibin David			
+		Munwar Ali			
+______________________________________________________________________________					
+2	2021	Rahul Yadav		Smart Healthcare: RL-Based Task  	
+		"Weizhe Zhang,"		Offloading Scheme for Edge-Enable Sensor	
+		Ibrahim A. Elgendy		Networks	
+		 Guozhong Dong			
+		Muhamamd Shafiq			
+		Asif Ali Laghari			
+		Shiv Prakash			
+______________________________________________________________________________					
+3	2021	Abdullah Ayub Khan 		IMG-forensics: Multimedia- 	
+		 Aftab Ahmed Shaikh		enabled information hiding 	
+		Omar Cheikhrouhou		 investigation using convolutio- 	
+		Asif Ali Laghari		nal neural network	
+		Mamoon Rashid			
+		Muhammad Shafiq			
+		Habib Hamam			
+______________________________________________________________________________					
+4	2021	Abdullah Ayub Khan 		Fourth Industrial Revolution  	
+		Asif Ali Laghari		Application: Network Forens-	
+		Shafique Awan		ics Cloud Security Issues	
+		Awais Khan Juman			
+______________________________________________________________________________					
+5	2020	Farhan Khan		Social Networks Mining  	
+		Saqib Iqbal		and Analysis of Specific	
+		Pireh Soomro		Groups (Political and 	
+		Asif Ali Laghari		Regional) by using API	
+		Kamran Ali			
+______________________________________________________________________________					
+6	2019	RA SHAH		An Efficient Technique for  	
+		AA WAGAN		Network Intrusion Detection	
+		M ALI		Using Feature selection	
+		R BIBI			
+______________________________________________________________________________					
+7	2019	Asif. Ali.WAGAN		Multipath Mobile Internet 	
+		Munwar.ZARDARI		 Protocol for Mobility	
+		R. A. SHAH		Networks	
+		R. A. SHAH			
+		Asif. Ali. LAGHARI			
+______________________________________________________________________________					
+8	2019	Adeel Abro		A Dynamic Application-	
+		Zhongliang Deng		Partitioning Algorithm with 	
+		Kamran A. Memon		Improved Offloading Mechanism	
+		Asif Ali Laghari		 for Fog Cloud Networks	
+		Khalid Hussain Mohammadani			
+		Noor ul Ain			
+______________________________________________________________________________					
+9	2019	Poonam K.K		         A Step towards the 	
+		 Asif Ali Laghari		Efficiency of Collisions 	
+		Rashid Ali Laghari		 in the Wireless Sensor	
+				                   Networks	
+______________________________________________________________________________					
+10	2019	Syed Asif Ali		      Library Book Sharing 	
+		 Basit Hassan Qureshi		Network (LBSN)	
+		 Syeda Wajiha Naim			
+		Maham Nasrullah			
+______________________________________________________________________________					
+11	2019	Haque Nawaz Lashari		A study of mobility  	
+		Husnain Mansoor Ali		models for UAV	
+		Shafiq ur Rehman Massan		communication networks	
+______________________________________________________________________________					
+12	2018	 Husnain Mansoor Ali		Implementation of OLSR  	
+		Haque Nawaz		            using 802.11g in UAV	
+				             communication network security	
+______________________________________________________________________________					
+13	2018	Haque Nawaz Lashari		Implementation of OLSR  	
+				                 using 802.11g in UAV	
+				                communication network 	
+______________________________________________________________________________					
+14	2017	Shamsa Kanwal		       Effects of Social Network-	
+		Ren Chonga 		        ing Sites (SNS) 	
+		Abdul Hameed		      Addiction on Online 	
+		Haque Nawaz Lashari		Self Disclosure Behavior: 	
+				              Impact of Psychological Factors	
+______________________________________________________________________________					
+15	2017	Haque Nawaz Lashari 		Performance Analysis of  	
+		Dr. Malook Rind		        Geographic Routing Protocol	
+				                  of MANET	
+______________________________________________________________________________					
+16	2013	H. MEHDI		Error-Rate Performance  	
+		S. SOOMRO		Analysis of Wireless	
+		W. R. KHAN		Sensor Networks over	
+		A. G. MEMON		 Fading Channels	
+		 A. HAFEEZ			
+______________________________________________________________________________					
+17	2013	H. Mehdi		Error-Rate Performance  	
+		S Soomro		Analysis of Wireless	
+		 W. R. Khan		Sensor Networks over	
+		A. G. Memon		 Fading Channels	
+		A. Hafeez			
+______________________________________________________________________________					
+18	2013	Ambreen		                International Journal of	
+		Haque Nawaz Lashari		 Emerging Technology 	
+				                     and Advanced Engineering	
+______________________________________________________________________________					

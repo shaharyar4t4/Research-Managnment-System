@@ -1,0 +1,18 @@
+______________________________________________________________________________
+             Department of Software Engineering
+______________________________________________________________________________	
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Dr. Abdul Hafeez 		Ontology Based Verification 	
+		(1st Author)		       of UML Class Model	
+______________________________________________________________________________					
+2	2021	Dr. Abdul Hafeez		Ontology Based Verification   	
+		(2nd Author)		          of UML Class Model	
+				                  XOR Constraint and	
+				                 Dependency Relationship 	
+				                     Constraints	
+______________________________________________________________________________					
+3	2019	Dr. Abdul Hafeez		A Survey on the  	
+		 (1st Author)		        Adaption of CMS	
+				                in Pakistani Universities	
+______________________________________________________________________________					

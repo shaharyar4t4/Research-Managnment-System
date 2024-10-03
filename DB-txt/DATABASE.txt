@@ -1,0 +1,39 @@
+______________________________________________________________________________
+                 Department of computer science
+______________________________________________________________________________	
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________				               A Generative Adversarial   	
+1	2021	I-Sheng Huang		Network Model Based	
+		Yu-Hsuan Lu		on Intelligent Data	
+		Muhammad Shafiq		Analytics for Music	
+		Asif Ali Laghari		Emotion Recognition	
+		Rahul Yadav		 under IoT	
+______________________________________________________________________________					
+2	2021	Yadav		      Managing overloaded 	
+		Rahul		       hosts for energy	
+		Weizhe Zhang		efficiency in cloud	
+		Keqin Li		data centers	
+		Chuanyi Liu			
+		Asif Ali Laghari			
+______________________________________________________________________________					
+3	2021	Awais Khan Jumani		Blockchain and Big  	
+		Asif Ali Laghari		Data: Supportive Aid	
+		Abdullah Ayub Khan		for Daily Life	
+______________________________________________________________________________					
+4	2019	Farsi		Cloud computing and 	
+		M. Ali		data security threats	
+		M.Shah		 taxonomy: A review	
+		R. A.Wagan			
+		A. A			
+		Kharabsheh.R.			
+______________________________________________________________________________					
+5	2019	Imtiaz Husain		         Self-Similarity Pattern  	
+		Syed Shahid Shaukat		Corresponding to the	
+		Abdul Hafeez Khan		Vegetational Field Data	
+______________________________________________________________________________					
+6	2018	Irfan Ali Kandhro		Performance Comparison   	
+		Haque Nawaz Lashari		between Merge and	
+		Imran Khan 		           Quick Sort Algorithms	
+		M Ameen Chhajro		            in Data Structure	
+		M. Malook Rind			
+______________________________________________________________________________					

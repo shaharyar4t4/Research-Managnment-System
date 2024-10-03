@@ -1,0 +1,145 @@
+______________________________________________________________________________	
+                 Department of Environmental Sciences
+______________________________________________________________________________	
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Nazeer Ali Panhwar 		Water Stress Affects  	
+		Monika Mierzwa-Hersztek		the Some Morpho	
+		Gul Muhammad Baloch		Physiological Traits	
+		 Zahoor Ahmed Soomro1		of Twenty Wheat 	
+		Mahboob Ali Sial		(Triticum aestivum L.)	
+		Erdona Demiraj		         Genotypes under 	
+		Sajjad Ali Panhwar		 Field Condition	
+		Ambreen Afzal			
+		Altaf Hussain Lahori			
+______________________________________________________________________________					
+2	2021	Nazeer Ali   Panhwar		Evaluation of heterosis      	
+		Gul Muhammad   Baloch		and its association	
+		Zahoor Ahmed Soomro		among  morpho-physiological	
+		Mahboob Ali Sial		traits  of  ten wheat	
+		Sajjad Ali Panhwar		genotypes under water	
+		Ambreen Afzal		         stress	
+		Altaf Hussain Lahori			
+______________________________________________________________________________					
+3	2021	Thi Hanh Tong		       Land Suitability Modeling   	
+		 Mai Phuong Pham		for Rice crop Based 	
+		 Thi Mai Huong Nguyen		On An Integrated	
+		Thi Thu Nga Nguyen		 Multi-Criteria Decision	
+		Alexander E. Balakirev		Making In Quang	
+		Altaf Hussain Lahori		Tri Province Of 	
+				                   Vietnam	
+______________________________________________________________________________					
+4	2021	Zouhair Elkhlifi		Lanthanum hydroxide     	
+		Lotfi Sellaoui		        engineered sewage	
+		Mengmeng Zhao		       sludge biochar for	
+		Jerosha Ifthikar		efficient phosphate	
+		 Ali Jawad		      elimination: Mechanism	
+		 Irshad Ibran Shahib		 interpretation using	
+		Badreddine Sijilmassi		physical modelling	
+		Altaf Hussain Lahori			
+		Rangabhashiyam Selvasembian			
+		Lucas Meili 			
+		Eman Abdelnasser Gendy 			
+		Zhuqi Chen			
+______________________________________________________________________________					
+5	2021	Tanveer Ahmed Gadhi		Waste Heat and    	
+		Imran Ali		     Wastewater Recovery	
+		Rasool Bux Mahar		in Textile Processing	
+		Hubdar Ali Maitlo		 Industry: A Case	
+		 Najeebullah Channa		Study of Adopted	
+				               Practices	
+______________________________________________________________________________					
+6	2021	Ambreen Afzal		Assessment of Spatial 	
+		Sheeba Afsar		 Distribution of Waste 	
+		Altaf Hussain Lahori		Bins in Karachi	
+		Anila Kausar		     Through GIS	
+				           Techniques	
+______________________________________________________________________________					
+7	2020	Nazeer Ali Panhwar		Influence of Row  	
+		 Saeed Ahmed Buriro		Spacing On Grain	
+		Abdul Hameed Memon		 Yield Of Winter	
+		Maira Tunio		          Wheat Genotypes	
+		Noor Us Sehar			
+		 Sajjad Ali Panhwar			
+		Altaf Hussain Lahori			
+______________________________________________________________________________					
+8	2020	Altaf Hussain Lahori		"Clays, Limestone and     "	
+		Monika Mierzwa-Hersztek		Biochar Affect the	
+		Erdona Demiraj		       Bioavailability and	
+		Rachida Idir		           Geochemical Fractions	
+		ThiTuyet Xuan Bui		of Cadmium and	
+		DinhDuy Vu		         Zinc from Zn-Smelter	
+		Amanullah Channa		 Polluted Soils	
+		 Naeem Akhtar Samoon			
+		 Zengqiang Zhang			
+______________________________________________________________________________					
+9	2020	Ashim Sikdar 		      Phytostabilization of    	
+		Jinxin Wang 		    Pb- Zn Mine Tailings	
+		Mirza Hasanuzzaman		with Amorpha fruticosa 	
+		Xiaoyang Liu		     Aided by Organic	
+		Shulin Feng		    Amendments and	
+		Rana Roy		      Triple Superphosphate	
+		Tanveer Ali Sial			
+		 Altaf Hussain Lahori			
+		Parimala Gnana Soundari			
+		Arockiam Jeyasundar			
+		 Xiuqing Wang			
+______________________________________________________________________________					
+10	2020	"Juan Du, Zhanyu Guo"		Screening of Chinese    	
+		 Ronghua Li		mustard (Brassica juncea L.)	
+		Di Guo		          cultivars for Cd/Zn	
+		Altaf Hussain Lahori		phytoremediation and	
+		Ping Wang		      research on physiological	
+		Xiangyu Liu		          mechanisms	
+		Amjad Ali			
+		Zengqiang Zhang			
+______________________________________________________________________________					
+11	2019	A.H. Lahori		Enhancing Phosphorus   	
+		 K. S. Memon		Solubility from Rock	
+		V. Vambol		Phosphate Integrated 	
+		H. Yasoob		 with Farmyard	
+		A. Aziz		       Manure in P-Deficient	
+		Z.Naheed		Soil	
+______________________________________________________________________________					
+12	2019	Altaf Hussain Lahori 		Residual effects of   	
+		 Monika Mierzwa-Hersztek		tobacco biochar	
+		 Shahmir Ali Kalhoro		along with different	
+		Mehrunisa Memon		      fixing agents on	
+		Zobia Naheed		       stabilization of trace	
+		 Muneer Ahmed		        elements in multi	
+		Zengqiang Zhang		         metal contaminated	
+				                         soils	
+______________________________________________________________________________					
+13	2019	Shuang Ren 		Comparison of Cd2+  	
+		Zhaofu Meng		 adsorption onto	
+		Xiuxian Sun		 amphoteric-cationic	
+		 Haoyuan Lu		and amphoteric	
+		Mengfei Zhang		anionic modified	
+		Altaf Hussain Lahori		magnetic bentonites	
+		Shuaibin Bu			
+______________________________________________________________________________					
+14	2017	M. Saeed Arayne		        Antihistaminic and other  	
+		 Najma Sultana		            biological activities 	
+		Hina Shehnaz		             of 2-methylpropanamide	
+		Saf-ur-Rehman Mandukhail		and benzamide	
+		 Anwarul Hassan Gilani		 derivatives of	
+		Amir Haider		          carboxyterfenadine	
+______________________________________________________________________________					
+15	2017	Laila Shahnaz		Phycochemical Investigation 	
+		 Amir Haider		 Of Brown Alga Sargassum	
+		 Hina Shehnaz		Tenerrimum From	
+				        Karachi Coast	
+______________________________________________________________________________					
+16	2014	Muhammad Hashim Zuberi		Optimization Of Quantitative    	
+		 Urooj Haroon		           Analysis Of Naproxin	
+		Yasmin Bibi		       Sodium Using Uv	
+		 Talat Mehmood		         Spectrophotometry In	
+		Iffat Mehmood		        Different Solvent Mediums	
+______________________________________________________________________________					
+17	2012	Amir Haider		In vitro Interaction	
+		Hina Shahnaz		of H1 and H2-receptor	
+		M. Saeed Arayne		"Antagonists, Cephalosporins"	
+		 Najma Sultana		"ACE-inhibitors, Hydrochlorothiazide,"	
+				       NSAIDs and Quinolones 	
+				         with Amantadine	
+______________________________________________________________________________					

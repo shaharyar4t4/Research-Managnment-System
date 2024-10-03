@@ -1,0 +1,10 @@
+______________________________________________________________________________	
+                  Department of computer science
+______________________________________________________________________________	
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2020	Asif Ali Laghari			Quality of experience  	
+		 Khalil-ur- Rehman Laghari		(QoE) assessment of	
+		Muhammad Bux Soomro		 games on workstations	
+		Vishal Kuma		           	and mobile	
+______________________________________________________________________________					

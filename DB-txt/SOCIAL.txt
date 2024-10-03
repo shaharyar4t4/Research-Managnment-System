@@ -1,0 +1,46 @@
+______________________________________________________________________________	
+                          Department of computer science 
+______________________________________________________________________________					
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Asif Ali Laghari 		Assessment of quality 	
+		 Mureed Ali Laghari		of experience (QoE) of image	
+				                compression in social cloud 	
+				                  computing Assessment of	
+				                   quality of experience (QoE)	
+				                      of image compression	
+				                  in social cloud computing	
+				                  Quality of Experience 	
+				                  Assessment of Calling	
+				                    Services in Social Network	
+______________________________________________________________________________					
+2	2021	Sajida Karim 		Quality of service (QoS):  	
+		Hui He		          measurements of image	
+		Asif Ali Laghari		formats in social	
+		 Arif Hussain Magsi		 cloud computing	
+		Rashid Ali Laghari			
+______________________________________________________________________________					
+3	2020	Farhan Khan		Social Networks Mining 	
+		Saqib Iqbal		and Analysis of Specific 	
+		Pireh Soomro		Groups (Political and 	
+		Asif Ali Laghari		Regional) by  using API	
+		Kamran Ali			
+______________________________________________________________________________					
+4	2019	Ameen Khowaja		         Need of a Localized 	
+		Usman Khan		      Social Network Platform 	
+		 Muhammad Arshad Arain		for Crowdfunding in 	
+		Syeda Wajiha Naim		Pakistan	
+		Syeda Nazia Ashraf			
+		 Irfan Ali Kandhro			
+______________________________________________________________________________					
+5	2018	Bilal		       An Analysis of Co-relation 	
+		Ahthasham Sajid		between Social Network 	
+		Haque Nawaz Lashari		Citation with H-Index 	
+		M. Malook Rind		         and its Variants	
+______________________________________________________________________________					
+6	2017	Shamsa Kanwal		Effects of Social Networking	
+		Ren Chonga 		 Sites (SNS) Addiction 	
+		Abdul Hameed		on Online Self Disclosure 	
+		Haque Nawaz Lashari		Behavior: Impact of	
+				         Psychological Factors	
+______________________________________________________________________________					

@@ -1,0 +1,51 @@
+______________________________________________________________________________
+    Department of Artificial Intelligence & Mathematical Sciences 
+______________________________________________________________________________
+SNO	YEAR	AUTHORS			RESEACH TOPIC
+______________________________________________________________________________					
+1	2021	Syed Muhammad Hassan		An Effective Combination of 	
+		Abdullah Alghamdi		 Textures and Wavelet	
+		Abdul Hafeez		       Features for Facial	
+		Mohammad Hamdi		       Expression Recognition	
+		Imtiaz Hussain			
+		 Mesfer Alrizq			
+______________________________________________________________________________					
+2	2021	Moheez ur Rahim		    Ignition Behavior of  	
+		Mukkarum Hussain		Supercritical Liquid Fuel	
+		Syed Azeem Inam		      in Combustion System	
+		Hassan Hashim			
+______________________________________________________________________________					
+3	2021	Imtiiaz Husain		   Logic Retaining Power    	
+		Hassan Hashim		     Among Genders and	
+		Syed Azeem Inam		      Effect of Time Constraints	
+		Muhammad Ali		     on the Performance	
+		Asif Mehmood Awan		of Undergrads Students	
+		Syed Muhammad Hassan			
+		Naila Rozi			
+______________________________________________________________________________					
+4	2021	Muhammad Ali 		        The best fitted probabilistic   	
+		Bulbul Jan		       modelling for seasonal 	
+		 Faisal Ahmed Khan Afridi		extreme rainfall of	
+		Muhammad Yonus		"       Gilgit-Baltistan, Pakistan"	
+______________________________________________________________________________					
+5	2021	Bulbul Jan		              Study of the nonlinear    	
+		Faisal Ahmed Khan Afridi		 character of ionospher	
+		 Muhammad Ali		         signals possessing critical	
+		Muhammad Ayub Khan Yousufzai		frequency (foF2) at	
+				                           Pakistan air space	
+______________________________________________________________________________					
+6	2020	Naila Rozi		Encryption of Big Data   	
+				        via Z-DNA to Analysis	
+				        of B-DNA through	
+				          neuron Processor	
+______________________________________________________________________________					
+7	2020	Khalid H. Malik		      On Transversal Vibrations   	
+		Sanaullah Dehraj		Of An Axially Moving	
+		Sajad H. Sandilo		Beam Under Influence	
+		Asif Mehmood Awan		Of Viscous Damping	
+______________________________________________________________________________					
+8	2020	Muhammad Ali		Return Level Estimates 	
+		Syed Asif Ali		of Maximum Temperature	
+		Imtiaz Hussain		 for Different Return Periods	
+		 Faisal Nawaz			
+______________________________________________________________________________					
